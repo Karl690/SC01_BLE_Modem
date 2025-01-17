@@ -1,0 +1,6 @@
+
+.visualgdb/
+.vs/
+build/
+dependencies.lock
+SC01_BLE_Modem.vgdbproj.falco.user
